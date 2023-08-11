@@ -1,0 +1,23 @@
+{
+  "fileName": "id_1691661374802",
+  "namespace": "apps/fin.cash.bankmaster.manage/appVariants/customer.app.finbank/changes",
+  "layer": "CUSTOMER_BASE",
+  "fileType": "change",
+  "creation": "2023-08-10T09:56:14.802Z",
+  "packageName": "$TMP",
+  "reference": "customer.app.finbank",
+  "support": {
+    "generator": "add-sapui5-component-usage-generator"
+  },
+  "changeType": "appdescr_ui5_addComponentUsages",
+  "content": {
+    "componentUsages": {
+      "customer.upload": {
+        "name": "cc.spreadsheetimporter.v0_24_0",
+        "lazy": false,
+        "settings": {},
+        "componentData": {}
+      }
+    }
+  }
+}

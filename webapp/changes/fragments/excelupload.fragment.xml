@@ -1,0 +1,4 @@
+<!-- Use stable and unique IDs!-->
+<core:FragmentDefinition xmlns:core='sap.ui.core' xmlns='sap.m'>
+<Button id="excelUpload" text="Upload" press=".extension.customer.app.finbank.OverflowToolbar.onUpload"/>
+</core:FragmentDefinition>

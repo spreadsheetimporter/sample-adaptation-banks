@@ -1,0 +1,11 @@
+{
+  "componentname": "fin.cash.bankmaster.manage",
+  "safeMode": false,
+  "appvariant": "app.finbank",
+  "layer": "CUSTOMER_BASE",
+  "sourceSystem": "XXX",
+  "isOVPApp": false,
+  "isFioriElement": false,
+  "environment": "ABAP",
+  "ui5Version": "1.96.18"
+}
