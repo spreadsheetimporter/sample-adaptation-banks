@@ -2,8 +2,8 @@
 	"name": "app.finbank",
 	"version": "0.0.1",
 	"devDependencies": {
-		"@openui5/ts-types": "1.60.x",
-		"@sap/ui5-builder-webide-extension": "1.0.x"
+		"@openui5/ts-types": "1.146.x",
+		"@sap/ui5-builder-webide-extension": "1.1.x"
 	},
 	"scripts": {
 		"build": "ui5 build --include-task=generateCachebusterInfo"
